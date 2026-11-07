@@ -1,0 +1,7 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.elnemer.islamic1000</groupId>
+  <artifactId>tajweed-java-ghunnah-formant-dsp</artifactId>
+  <version>1.0.0</version>
+  <name>Nasal Ghunnah Formant Resonance & 2-Harakat Timer</name>
+</project>
